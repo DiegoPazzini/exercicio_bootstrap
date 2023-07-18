@@ -1,0 +1,33 @@
+.col-md-6{
+    margin-top: 16px;
+    margin-right: 10px;
+    font-size: small;
+}
+
+.form-group{
+margin-top: 3px;
+margin-bottom: 3px;
+}
+
+.form-outline{
+    margin-top: -10px;
+}
+
+#button1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#inputName ,#inputSurname, #inputEmail4, #inputPassword4, #inputCity , #inputCity, #inputState{
+    margin-bottom: 10px;
+}
+
+#form2Example1 {
+    margin-bottom: 1px;
+    margin-top: 5px;
+}
+
+.text-center{
+    margin-top: -10px;
+}
+
